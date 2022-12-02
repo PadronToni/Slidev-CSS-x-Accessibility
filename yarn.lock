@@ -244,6 +244,13 @@
   resolved "https://registry.yarnpkg.com/@hedgedoc/markdown-it-task-lists/-/markdown-it-task-lists-2.0.1.tgz#21a323d2b296ede813b57869087f95a0e50cb1f5"
   integrity sha512-/iwO+hlzh+Jg+jQqE1SkI3Fr9LPBLqS2rgWQFOFSj0HH7KEYbegYru+dc+B2V89ZcY0AwwT6LzU4f5oqsgyvEw==
 
+"@iconify-json/bi@^1.1.12":
+  version "1.1.12"
+  resolved "https://registry.yarnpkg.com/@iconify-json/bi/-/bi-1.1.12.tgz#023f9aba67b121df253291e45deefc5e6543e966"
+  integrity sha512-XeB+y2Q95acfvQslZijLG4EdeuyWNyOaOmr3oc88VoTAdikhhPcPmkLGYsjKCRODL9ACbOyZMSgx+NHmBKT7Ww==
+  dependencies:
+    "@iconify/types" "*"
+
 "@iconify-json/carbon@^1.1.9":
   version "1.1.11"
   resolved "https://registry.yarnpkg.com/@iconify-json/carbon/-/carbon-1.1.11.tgz#912c7b367ab4a12da214047c79f178f36acebf66"
@@ -255,6 +262,13 @@
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@iconify-json/ph/-/ph-1.1.3.tgz#3534e9b773e56dbc52ca62b748b5fa78dc927643"
   integrity sha512-QSzWMGF8GiBPW89RpQ3bEwEjuRWTv/xxskStUpK7tsXlz3qoPTEM5CQxDUpzUmc9luAWViqD/shIUiuNhUeolw==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify-json/ri@^1.1.4":
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/@iconify-json/ri/-/ri-1.1.4.tgz#52aff40f161064f60dd08f3e3add6d9fdc5e03a4"
+  integrity sha512-gAk2gQBVghgbMLOmbUCc3l4COMMH5sR3HhBqpjaPUFBbC4WsNNRyOD4RZgjlanU7DTgFrj4NarY5K2EkXaVxuw==
   dependencies:
     "@iconify/types" "*"
 
