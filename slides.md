@@ -17,5 +17,9 @@ src: ./pages/disclaimer-content.md
 ---
 
 ---
-src: ./pages/end.md
+src: ./pages/table-of-contents-intro.md
+---
+
+---
+src: ./pages/table-of-contents-practice.md
 ---

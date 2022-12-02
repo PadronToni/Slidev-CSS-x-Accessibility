@@ -2,7 +2,7 @@
 layout: statement
 ---
 
-# Disclaimer 2
+# Disclaimer
 > I contenuti di questo talk sono <u>in parte</u> frutto della mia sola
 esperienza sulla materia.
 <br>
