@@ -23,3 +23,19 @@ src: ./pages/table-of-contents-intro.md
 ---
 src: ./pages/table-of-contents-practice.md
 ---
+
+---
+src: ./pages/hands-up/cover.md
+---
+
+---
+src: ./pages/hands-up/frontend.md
+---
+
+---
+src: ./pages/hands-up/stakeholder.md
+---
+
+---
+src: ./pages/hands-up/target.md
+---
