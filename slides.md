@@ -9,7 +9,11 @@ src: ./pages/avatar.md
 ---
 
 ---
-src: ./pages/disclaimer.md
+src: ./pages/disclaimer-slidev.md
+---
+
+---
+src: ./pages/disclaimer-content.md
 ---
 
 ---
