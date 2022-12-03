@@ -59,7 +59,30 @@ src: ./pages/laws/guidelines.md
 ---
 src: ./pages/monitoring/cover.md
 ---
-
 ---
 src: ./pages/monitoring/who.md
+---
+
+---
+src: ./pages/practice/cover.md
+---
+
+---
+src: ./pages/practice/wai-aria.md
+---
+
+---
+src: ./pages/practice/focus-strategies1.md
+---
+
+---
+src: ./pages/practice/focus-strategies2.md
+---
+
+---
+src: ./pages/practice/focus-strategies3.md
+---
+
+---
+src: ./pages/practice/not-style-elements.md
 ---
