@@ -89,6 +89,10 @@ src: ./pages/intro/assistive-technologies.md
 ---
 
 ---
+src: ./pages/intro/types-of-navigation.md
+---
+
+---
 src: ./pages/practice/cover.md
 ---
 

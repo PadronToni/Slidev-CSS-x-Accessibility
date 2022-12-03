@@ -11,6 +11,5 @@
 - Il concetto di semantica nel web
 - Come funzionano le tecnologie assistive (in breve)
 - Le tipologie di navigazione
-- Il ruolo degli strumenti di sviluppo attuali
 
 </v-clicks>
