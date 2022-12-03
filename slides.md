@@ -59,8 +59,13 @@ src: ./pages/laws/guidelines.md
 ---
 src: ./pages/monitoring/cover.md
 ---
+
 ---
 src: ./pages/monitoring/who.md
+---
+
+---
+src: ./pages/intro/for-ai.md
 ---
 
 ---
