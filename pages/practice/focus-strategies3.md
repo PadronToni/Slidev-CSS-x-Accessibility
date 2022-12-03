@@ -1,4 +1,4 @@
-# Strategia per elementi nativi
+<h1 class="title">Strategia per elementi nativi</h1>
 
 <br>
 

@@ -1,5 +1,7 @@
-# Strategie per il focus dei componenti
+<h1 class="title">Strategie per il focus dei componenti</h1>
+
 <br>
+
 Alcune volte, vi è la necessità di sviluppare dei componenti che hanno bisogno nella loro interezza di avere focus durante la navigazione
 
 Le card sono un esempio

@@ -1,5 +1,4 @@
-
-# L'AGID
+<h1 class="title">L'AGID</h1>
 
 <br>
 

@@ -1,12 +1,17 @@
-# Non stilate gli elementi nativi
+
+<h1 class="title">Non stilate gli elementi nativi</h1>
 
 <br>
+
+<v-clicks>
 
 Come nello scorso esempio, possiamo usare gli elementi nativi per "avvolgere" i componenti.
 
 Per evitare conflitti tra stili la soluzione migliore e' di non stilare gli elementi!
 
 Deleghiamo lo stile ad una classe che da' l'aspetto di un bottone
+
+</v-clicks>
 
 --- 
 

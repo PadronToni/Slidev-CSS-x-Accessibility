@@ -1,4 +1,6 @@
-# Strategia per direttiva
+<h1 class="title">Strategia per direttiva</h1>
+
+<br>
 
 Se utilizziamo un framework js possiamo utilizzare una directive
 

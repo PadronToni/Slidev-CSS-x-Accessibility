@@ -86,3 +86,7 @@ src: ./pages/practice/focus-strategies3.md
 ---
 src: ./pages/practice/not-style-elements.md
 ---
+
+---
+src: ./pages/practice/alt-nav-menu.md
+---
