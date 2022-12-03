@@ -94,3 +94,11 @@ src: ./pages/practice/alt-nav-menu.md
 ---
 src: ./pages/practice/outline.md
 ---
+
+---
+src: ./pages/practice/right-order.md
+---
+
+---
+src: ./pages/practice/tools.md
+---
