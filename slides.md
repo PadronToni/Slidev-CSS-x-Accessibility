@@ -85,6 +85,10 @@ src: ./pages/intro/semantic2.md
 ---
 
 ---
+src: ./pages/intro/assistive-technologies.md
+---
+
+---
 src: ./pages/practice/cover.md
 ---
 
