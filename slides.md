@@ -73,6 +73,10 @@ src: ./pages/intro/types-of-disabilities.md
 ---
 
 ---
+src: ./pages/intro/benefits.md
+---
+
+---
 src: ./pages/practice/cover.md
 ---
 
