@@ -90,3 +90,7 @@ src: ./pages/practice/not-style-elements.md
 ---
 src: ./pages/practice/alt-nav-menu.md
 ---
+
+---
+src: ./pages/practice/outline.md
+---
