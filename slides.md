@@ -102,3 +102,11 @@ src: ./pages/practice/right-order.md
 ---
 src: ./pages/practice/tools.md
 ---
+
+---
+src: ./pages/thank-you.md
+---
+
+---
+src: ./pages/questions.md
+---
