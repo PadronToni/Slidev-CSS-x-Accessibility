@@ -104,6 +104,10 @@ src: ./pages/practice/tools.md
 ---
 
 ---
+src: ./pages/practice/advice.md
+---
+
+---
 src: ./pages/thank-you.md
 ---
 

@@ -8,7 +8,7 @@ class: local
 
 <v-clicks>
 
-L'EAA è stata pubblicata il 17 aprile 2019, emanata dall'uninone europea, sui requisiti di accessibilità dei prodotti e dei servizi.
+L'EAA è stata pubblicata il 17 aprile 2019, emanata dall'Unione Europea, sui requisiti di accessibilità dei prodotti e dei servizi.
 Segue la direttiva 2016/2102 e si applica ad una serie di prodotti immessi sul mercato dopo il 28 giugno 2025, tra cui:
 - sistemi hardware e sistemi operativi informatici generici;
 - terminali self service: terminali di pagamento, sportelli automatici, ecc.;
