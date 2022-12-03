@@ -2,7 +2,7 @@
 class: local
 ---
 
-<h1 class="">Norme italiane</h1>
+<h1 class="title">Norme italiane</h1>
 
 
 ## Dlgs. 216/2003
@@ -24,17 +24,13 @@ pubblico che nel privato
 Obbligo di publicità legale e trasparenza accessibile
 
 
-<footer class="p-4 flex justify-end">
+<footer>
 	<span>Fonte: IWA</span>
 </footer>
 
 <style>
 	.local h2 {
 		@apply text-xl mt-4;
-	}
-
-	.local h1 {
-		@apply inline-block font-bold border-b-2 border-primary-500 mb-4;
 	}
 
 	.local p {

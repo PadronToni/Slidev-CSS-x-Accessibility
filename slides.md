@@ -43,3 +43,15 @@ src: ./pages/hands-up/target.md
 ---
 src: ./pages/laws/italian.md
 ---
+
+---
+src: ./pages/laws/european.md
+---
+
+---
+src: ./pages/laws/european2.md
+---
+
+---
+src: ./pages/laws/guidelines.md
+---
