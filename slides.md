@@ -69,6 +69,10 @@ src: ./pages/intro/for-ai.md
 ---
 
 ---
+src: ./pages/intro/types-of-disabilities.md
+---
+
+---
 src: ./pages/practice/cover.md
 ---
 
