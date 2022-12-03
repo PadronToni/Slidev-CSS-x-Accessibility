@@ -77,6 +77,14 @@ src: ./pages/intro/benefits.md
 ---
 
 ---
+src: ./pages/intro/semantic.md
+---
+
+---
+src: ./pages/intro/semantic2.md
+---
+
+---
 src: ./pages/practice/cover.md
 ---
 
