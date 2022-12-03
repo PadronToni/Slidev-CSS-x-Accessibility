@@ -2,7 +2,6 @@
 
 <v-clicks>
 
-- Approccio di base
 - WAI-Aria
 - Strategie per il focus nei componenti
 - Come non stilare gli elementi con il CSS

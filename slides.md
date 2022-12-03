@@ -55,3 +55,11 @@ src: ./pages/laws/european2.md
 ---
 src: ./pages/laws/guidelines.md
 ---
+
+---
+src: ./pages/monitoring/cover.md
+---
+
+---
+src: ./pages/monitoring/who.md
+---
