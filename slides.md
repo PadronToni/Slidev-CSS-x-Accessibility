@@ -39,3 +39,7 @@ src: ./pages/hands-up/stakeholder.md
 ---
 src: ./pages/hands-up/target.md
 ---
+
+---
+src: ./pages/laws/italian.md
+---
