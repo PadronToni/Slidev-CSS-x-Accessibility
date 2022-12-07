@@ -10,6 +10,9 @@ export const vFocusable = {
 
 		// rende focusable
 		el.setAttribute('tabindex', '0');
+		// da il ruolo di bottone per essere individuato
+		// dagli screen reader correttamente
+		el.setAttribute('role', 'button');
 
 		// simula il click al keypress su enter o spacebar
 		el.addEventListener('keypress', (evt: any) => {
